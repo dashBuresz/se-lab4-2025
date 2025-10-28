@@ -1,0 +1,4 @@
+GT4500,3,0,0,0      # test if firing works if only primary has torpedoes
+TORPEDO,SINGLE      # test if we can fire in SINGLE
+TORPEDO,SINGLE      # test if we try to fire again, the primary fires instead of the secondary, since that is empty
+TORPEDO,ALL         # test if we can fire in ALL

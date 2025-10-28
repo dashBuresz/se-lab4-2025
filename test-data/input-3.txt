@@ -1,0 +1,3 @@
+GT4500,0,0,0,0  # checks if firing fails when stores are empty
+TORPEDO,SINGLE  # tries to fire in SINGLE
+TORPEDO,ALL     # tries to fire in ALL
